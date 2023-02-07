@@ -1,0 +1,17 @@
+.about{
+    border: solid;
+    border-radius: 35px;
+    background-color: black;
+    text-align: center;
+}
+
+.divH2{
+    border-radius: 35px;
+    border: solid white;
+}
+
+.aboutH2{
+    color: white;
+    font-family: anton;
+    margin: 10px;
+}
