@@ -15,3 +15,32 @@
     font-family: anton;
     margin: 10px;
 }
+h2,h1{
+    font-family: anton;
+    color: white;
+}
+p{
+    color: white;
+}
+.row{
+    align-items: center;
+}
+.col-12{
+    border:solid;
+    border-radius: 30px;
+   color: white;
+   text-align: center;
+}
+i{
+    padding: 10px 30px 10px 30px;
+    font-size: 20px;
+    
+}
+.imgFotoPerfil{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: solid;
+    color: white;
+    margin-top: 20px;
+}
